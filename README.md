@@ -12,7 +12,7 @@
 
 ## Yêu cầu hệ thống
 
-- Python 3.8 trở lên
+- Python 3.10 trở lên
 - Windows, Linux hoặc macOS
 
 ## Cài đặt
